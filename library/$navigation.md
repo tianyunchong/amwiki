@@ -51,13 +51,29 @@
     - **jquery**
 
 ##### 算法
+- [限流算法](?file=06-算法/01-限流算法 "限流算法")
 
 ##### linux
 - **io**
     - [查看io命令](?file=07-linux/01-io/01-查看io命令 "查看io命令")
     - [如何规避io过高](?file=07-linux/01-io/02-如何规避io过高 "如何规避io过高")
+- **shell**
+    - [常用分析命令](?file=07-linux/02-shell/01-常用分析命令 "常用分析命令")
+    - **命令详解**
+        - [ll](?file=07-linux/02-shell/02-命令详解/01-ll "ll")
+        - [netstat](?file=07-linux/02-shell/02-命令详解/02-netstat "netstat")
 
-##### 搜索
+##### 搜索工具
+- **elasticsearch**
+    - [安装配置](?file=08-搜索工具/01-elasticsearch/01-安装配置 "安装配置")
+    - [概念](?file=08-搜索工具/01-elasticsearch/02-概念 "概念")
+    - **mapping**
+        - [自定义分析器](?file=08-搜索工具/01-elasticsearch/03-mapping/01-自定义分析器 "自定义分析器")
+        - [字段对应](?file=08-搜索工具/01-elasticsearch/03-mapping/02-字段对应 "字段对应")
+        - **数据类型配置相关**
+            - [字符串](?file=08-搜索工具/01-elasticsearch/03-mapping/03-数据类型配置相关/01-字符串 "字符串")
+            - [整型](?file=08-搜索工具/01-elasticsearch/03-mapping/03-数据类型配置相关/02-整型 "整型")
+    - [php调用](?file=08-搜索工具/01-elasticsearch/04-php调用 "php调用")
 
 ##### 概念
 
