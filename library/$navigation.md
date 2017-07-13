@@ -53,6 +53,9 @@
 ##### 算法
 
 ##### linux
+- **io**
+    - [查看io命令](?file=07-linux/01-io/01-查看io命令 "查看io命令")
+    - [如何规避io过高](?file=07-linux/01-io/02-如何规避io过高 "如何规避io过高")
 
 ##### 搜索
 
@@ -65,3 +68,34 @@
 ##### c
 
 ##### c++
+
+##### 网络架构
+- [构造高性能网站](?file=13-网络架构/01-构造高性能网站 "构造高性能网站")
+- **负载均衡**
+    - [基本概念](?file=13-网络架构/02-负载均衡/01-基本概念 "基本概念")
+    - [lvs](?file=13-网络架构/02-负载均衡/02-lvs "lvs")
+- **概念整理**
+    - [cap](?file=13-网络架构/03-概念整理/01-cap "cap")
+    - [数据一致性](?file=13-网络架构/03-概念整理/02-数据一致性 "数据一致性")
+- [eventloop](?file=13-网络架构/04-eventloop "eventloop")
+
+##### 协议
+- **应用层协议**
+    - [http](?file=14-协议/01-应用层协议/01-http "http")
+    - [https](?file=14-协议/01-应用层协议/02-https "https")
+- **传输层协议**
+    - [tcp](?file=14-协议/02-传输层协议/01-tcp "tcp")
+    - [udp](?file=14-协议/02-传输层协议/02-udp "udp")
+    - [tcp和udp的区别](?file=14-协议/02-传输层协议/03-tcp和udp的区别 "tcp和udp的区别")
+- [socket](?file=14-协议/03-socket "socket")
+
+##### 算法
+
+##### web服务器
+- **cgi**
+    - [什么是cgi](?file=16-web服务器/01-cgi/01-什么是cgi "什么是cgi")
+    - [fastcgi](?file=16-web服务器/01-cgi/02-fastcgi "fastcgi")
+    - [phpfpm](?file=16-web服务器/01-cgi/03-phpfpm "phpfpm")
+    - [php的cgi实现](?file=16-web服务器/01-cgi/04-php的cgi实现 "php的cgi实现")
+- **nginx**
+- [错误码](?file=16-web服务器/03-错误码 "错误码")
