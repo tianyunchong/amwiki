@@ -29,3 +29,8 @@ data1 = {'b':789,'c':456,'a':123}
 b = json.dumps(data1, separators=(',', ":"))
 print len(repr(b))
 ```
+
+#### 中文输出字典或者列表的结构
+```python
+json.dumps(detail_dict, ensure_ascii=False, encoding='UTF-8')
+```
