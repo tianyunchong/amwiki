@@ -99,6 +99,10 @@
         - [json处理](?file=10-其他语言/01-python/02-常用操作/01-json处理 "json处理")
         - [变量操作](?file=10-其他语言/01-python/02-常用操作/02-变量操作 "变量操作")
     - [代码规范](?file=10-其他语言/01-python/03-代码规范 "代码规范")
+    - **模块的使用**
+        - **sqlalchemy**
+            - [session](?file=10-其他语言/01-python/04-模块的使用/01-sqlalchemy/01-session "session")
+            - [数据查询](?file=10-其他语言/01-python/04-模块的使用/01-sqlalchemy/02-数据查询 "数据查询")
 - **c**
 - **c++**
 
