@@ -107,6 +107,7 @@
             - [session](?file=10-其他语言/01-python/04-模块的使用/01-sqlalchemy/01-session "session")
             - [数据查询](?file=10-其他语言/01-python/04-模块的使用/01-sqlalchemy/02-数据查询 "数据查询")
         - [BeautifulSoup](?file=10-其他语言/01-python/04-模块的使用/02-BeautifulSoup "BeautifulSoup")
+        - [requests](?file=10-其他语言/01-python/04-模块的使用/03-requests "requests")
 - **c**
 - **c++**
 

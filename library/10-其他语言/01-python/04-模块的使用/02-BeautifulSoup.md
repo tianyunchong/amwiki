@@ -1,4 +1,5 @@
 ### BeautifulSoup的使用
+http://cuiqingcai.com/1319.html
 #### 开始使用
 ```python
 soup = BeautifulSoup(html, "html.parser")
