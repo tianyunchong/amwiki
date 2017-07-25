@@ -44,6 +44,7 @@
     - **nosql**
         - **mongodb**
             - [操作符](?file=03-web系统工具/02-存储系统/03-nosql/01-mongodb/01-操作符 "操作符")
+            - [php链接](?file=03-web系统工具/02-存储系统/03-nosql/01-mongodb/02-php链接 "php链接")
 - **队列**
     - **beanstalk**
         - [简单使用](?file=03-web系统工具/03-队列/01-beanstalk/01-简单使用 "简单使用")
