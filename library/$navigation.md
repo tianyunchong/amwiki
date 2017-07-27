@@ -96,6 +96,8 @@
         - [netstat](?file=07-linux/02-shell/02-命令详解/02-netstat "netstat")
 - **git**
     - [版本回退](?file=07-linux/03-git/01-版本回退 "版本回退")
+    - [版本合并](?file=07-linux/03-git/02-版本合并 "版本合并")
+    - [清理更改](?file=07-linux/03-git/03-清理更改 "清理更改")
 
 ##### 其他语言
 - **python**
@@ -114,6 +116,7 @@
             - [数据查询](?file=10-其他语言/01-python/04-模块的使用/01-sqlalchemy/02-数据查询 "数据查询")
         - [BeautifulSoup](?file=10-其他语言/01-python/04-模块的使用/02-BeautifulSoup "BeautifulSoup")
         - [requests](?file=10-其他语言/01-python/04-模块的使用/03-requests "requests")
+        - [pkg_resources](?file=10-其他语言/01-python/04-模块的使用/04-pkg_resources "pkg_resources")
 - **c**
 - **c++**
 
@@ -138,6 +141,10 @@
 - [socket](?file=14-协议/03-socket "socket")
 
 ##### 算法
+
+##### 开源项目研究
+- **supervisor**
+    - [supervisor启动解析](?file=16-开源项目研究/01-supervisor/01-supervisor启动解析 "supervisor启动解析")
 
 ##### work
 - **2017**
