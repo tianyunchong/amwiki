@@ -20,6 +20,8 @@
         - **资源文件管理**
             - [readme](?file=01-php/03-框架/01-phalcon/05-资源文件管理/01-readme "readme")
             - [管理引入本地css和js](?file=01-php/03-框架/01-phalcon/05-资源文件管理/02-管理引入本地css和js "管理引入本地css和js")
+        - **orm相关**
+            - [model查询](?file=01-php/03-框架/01-phalcon/06-orm相关/01-model查询 "model查询")
 - **开源项目**
     - [数据字典](?file=01-php/04-开源项目/01-数据字典 "数据字典")
     - **discuz**
