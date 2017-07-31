@@ -51,6 +51,9 @@
             - [int](?file=03-web系统工具/02-存储系统/02-mysql/03-数据类型/01-int "int")
         - **管理操作**
             - [密码修改](?file=03-web系统工具/02-存储系统/02-mysql/04-管理操作/01-密码修改 "密码修改")
+        - **分库分表**
+            - [分库分表](?file=03-web系统工具/02-存储系统/02-mysql/05-分库分表/01-分库分表 "分库分表")
+        - [mysql主从模式和主主互备](?file=03-web系统工具/02-存储系统/02-mysql/06-mysql主从模式和主主互备 "mysql主从模式和主主互备")
     - **nosql**
         - **mongodb**
             - [操作符](?file=03-web系统工具/02-存储系统/03-nosql/01-mongodb/01-操作符 "操作符")
@@ -126,6 +129,8 @@
         - [BeautifulSoup](?file=10-其他语言/01-python/04-模块的使用/02-BeautifulSoup "BeautifulSoup")
         - [requests](?file=10-其他语言/01-python/04-模块的使用/03-requests "requests")
         - [pkg_resources](?file=10-其他语言/01-python/04-模块的使用/04-pkg_resources "pkg_resources")
+    - **正则表达式**
+        - [正则匹配提取字符串](?file=10-其他语言/01-python/05-正则表达式/01-正则匹配提取字符串 "正则匹配提取字符串")
 - **c**
 - **c++**
 
