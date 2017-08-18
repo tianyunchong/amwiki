@@ -79,7 +79,12 @@
             - **数据类型配置相关**
                 - [字符串](?file=03-web系统工具/08-搜索/01-elasticsearch/03-mapping/03-数据类型配置相关/01-字符串 "字符串")
                 - [整型](?file=03-web系统工具/08-搜索/01-elasticsearch/03-mapping/03-数据类型配置相关/02-整型 "整型")
+            - [store](?file=03-web系统工具/08-搜索/01-elasticsearch/03-mapping/04-store "store")
         - [php调用](?file=03-web系统工具/08-搜索/01-elasticsearch/04-php调用 "php调用")
+        - **测试使用**
+            - [索引创建](?file=03-web系统工具/08-搜索/01-elasticsearch/05-测试使用/01-索引创建 "索引创建")
+            - [类型创建](?file=03-web系统工具/08-搜索/01-elasticsearch/05-测试使用/02-类型创建 "类型创建")
+    - [中文常用的分词器](?file=03-web系统工具/08-搜索/02-中文常用的分词器 "中文常用的分词器")
 - **web服务器**
     - **cgi**
         - [什么是cgi](?file=03-web系统工具/16-web服务器/01-cgi/01-什么是cgi "什么是cgi")
