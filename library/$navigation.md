@@ -82,8 +82,12 @@
             - [store](?file=03-web系统工具/08-搜索/01-elasticsearch/03-mapping/04-store "store")
         - [php调用](?file=03-web系统工具/08-搜索/01-elasticsearch/04-php调用 "php调用")
         - **测试使用**
-            - [索引创建](?file=03-web系统工具/08-搜索/01-elasticsearch/05-测试使用/01-索引创建 "索引创建")
             - [类型创建](?file=03-web系统工具/08-搜索/01-elasticsearch/05-测试使用/02-类型创建 "类型创建")
+            - [遇到的问题解决](?file=03-web系统工具/08-搜索/01-elasticsearch/05-测试使用/03-遇到的问题解决 "遇到的问题解决")
+        - **索引管理**
+            - [索引创建修改](?file=03-web系统工具/08-搜索/01-elasticsearch/06-索引管理/01-索引创建修改 "索引创建修改")
+            - [索引查看](?file=03-web系统工具/08-搜索/01-elasticsearch/06-索引管理/02-索引查看 "索引查看")
+            - [mapping](?file=03-web系统工具/08-搜索/01-elasticsearch/06-索引管理/03-mapping "mapping")
     - [中文常用的分词器](?file=03-web系统工具/08-搜索/02-中文常用的分词器 "中文常用的分词器")
 - **web服务器**
     - **cgi**
