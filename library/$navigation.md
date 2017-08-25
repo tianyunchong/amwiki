@@ -79,7 +79,9 @@
             - **数据类型配置相关**
                 - [字符串](?file=03-web系统工具/08-搜索/01-elasticsearch/03-mapping/03-数据类型配置相关/01-字符串 "字符串")
                 - [整型](?file=03-web系统工具/08-搜索/01-elasticsearch/03-mapping/03-数据类型配置相关/02-整型 "整型")
+                - [text&keyword](?file=03-web系统工具/08-搜索/01-elasticsearch/03-mapping/03-数据类型配置相关/03-text&keyword "text&keyword")
             - [store](?file=03-web系统工具/08-搜索/01-elasticsearch/03-mapping/04-store "store")
+            - [常用配置项](?file=03-web系统工具/08-搜索/01-elasticsearch/03-mapping/05-常用配置项 "常用配置项")
         - [php调用](?file=03-web系统工具/08-搜索/01-elasticsearch/04-php调用 "php调用")
         - **测试使用**
             - [类型创建](?file=03-web系统工具/08-搜索/01-elasticsearch/05-测试使用/02-类型创建 "类型创建")
@@ -88,6 +90,10 @@
             - [索引创建修改](?file=03-web系统工具/08-搜索/01-elasticsearch/06-索引管理/01-索引创建修改 "索引创建修改")
             - [索引查看](?file=03-web系统工具/08-搜索/01-elasticsearch/06-索引管理/02-索引查看 "索引查看")
             - [mapping](?file=03-web系统工具/08-搜索/01-elasticsearch/06-索引管理/03-mapping "mapping")
+        - **数据检索**
+            - [基本数据查询](?file=03-web系统工具/08-搜索/01-elasticsearch/07-数据检索/01-基本数据查询 "基本数据查询")
+        - **分布式**
+            - [同一台机器配置多个节点](?file=03-web系统工具/08-搜索/01-elasticsearch/08-分布式/01-同一台机器配置多个节点 "同一台机器配置多个节点")
     - [中文常用的分词器](?file=03-web系统工具/08-搜索/02-中文常用的分词器 "中文常用的分词器")
 - **web服务器**
     - **cgi**
