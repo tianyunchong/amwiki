@@ -66,6 +66,7 @@
             - [操作符](?file=03-web系统工具/02-存储系统/03-nosql/01-mongodb/01-操作符 "操作符")
             - [php链接](?file=03-web系统工具/02-存储系统/03-nosql/01-mongodb/02-php链接 "php链接")
             - [mongoClient](?file=03-web系统工具/02-存储系统/03-nosql/01-mongodb/03-mongoClient "mongoClient")
+            - [mongodb的优劣](?file=03-web系统工具/02-存储系统/03-nosql/01-mongodb/04-mongodb的优劣 "mongodb的优劣")
         - **redis**
             - [简单连接使用](?file=03-web系统工具/02-存储系统/03-nosql/02-redis/01-简单连接使用 "简单连接使用")
             - [集合的操作](?file=03-web系统工具/02-存储系统/03-nosql/02-redis/02-集合的操作 "集合的操作")
@@ -106,6 +107,7 @@
         - [phpfpm](?file=03-web系统工具/16-web服务器/01-cgi/03-phpfpm "phpfpm")
         - [php的cgi实现](?file=03-web系统工具/16-web服务器/01-cgi/04-php的cgi实现 "php的cgi实现")
     - **nginx**
+        - [nginx缓存配置](?file=03-web系统工具/16-web服务器/02-nginx/01-nginx缓存配置 "nginx缓存配置")
     - [错误码](?file=03-web系统工具/16-web服务器/03-错误码 "错误码")
 
 ##### 界面美化
@@ -133,6 +135,8 @@
     - [版本回退](?file=07-linux/03-git/01-版本回退 "版本回退")
     - [版本合并](?file=07-linux/03-git/02-版本合并 "版本合并")
     - [清理更改](?file=07-linux/03-git/03-清理更改 "清理更改")
+- **服务器问题排查**
+    - [进程相关](?file=07-linux/04-服务器问题排查/01-进程相关 "进程相关")
 
 ##### 其他语言
 - **python**
@@ -197,6 +201,7 @@
 ##### 传送门
 - [常用网站](?file=19-传送门/01-常用网站 "常用网站")
 - [思路整理](?file=19-传送门/02-思路整理 "思路整理")
+- [常用模板素材](?file=19-传送门/03-常用模板素材 "常用模板素材")
 
 ##### 开发工具
 - **sublime**
