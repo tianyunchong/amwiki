@@ -48,6 +48,7 @@
     - [常见的xss攻击](?file=01-php/07-安装漏洞/02-常见的xss攻击 "常见的xss攻击")
 - **知识点记录**
     - [self和static的区别](?file=01-php/08-知识点记录/01-self和static的区别 "self和static的区别")
+    - [_class和get_class和get_called_class区别](?file=01-php/08-知识点记录/02-_class和get_class和get_called_class区别 "_class和get_class和get_called_class区别")
 - **需求实现方案**
     - [php实现端口转发](?file=01-php/09-需求实现方案/01-php实现端口转发 "php实现端口转发")
 
@@ -181,6 +182,8 @@
     - [cap](?file=13-网络架构/03-概念整理/01-cap "cap")
     - [数据一致性](?file=13-网络架构/03-概念整理/02-数据一致性 "数据一致性")
 - [eventloop](?file=13-网络架构/04-eventloop "eventloop")
+- **限流**
+    - [技术文章](?file=13-网络架构/05-限流/01-技术文章 "技术文章")
 
 ##### 协议
 - **应用层协议**
