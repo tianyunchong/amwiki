@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>产品列表页面</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/产品列表页面/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/产品列表页面/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u271" class="ax_default paragraph">
+        <div id="u271_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u272" class="text">
+          <p><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;">需要进一步优化的地方</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">http://user.westarcloud.com/product/index/index/?time=1506408664910</span></p><p><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;">页面访问时间</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;">70-80ms, </span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;">主要消耗在两个较慢的sql查询</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;"></span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;"># </span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;">查询站点下的产品，使用了索引</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;">siteid_1_state_1_addtime_-1, </span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;">查询时间仍然</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;">16ms</span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;">左右，暂未找到进一步优化的办法</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;"></span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">supsite.data_product</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">array (</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp; 'siteid' =&gt; </span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp; MongoDB\BSON\ObjectID::__set_state(array(</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp; 'oid' =&gt; '59b0e30893527e3d325c81f2',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp; )),</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp; 'state' =&gt; 1,</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">)</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;"><br></span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">#</span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;">查询产品各访问量，使用了索引</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;">pid_1_siteid_1,</span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;">查询时间在</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;">31ms</span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;">左右，暂未找到进一步优化方案</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;"></span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">5tongji.siteid_pid_pv</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">array (</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp; 'pid' =&gt; </span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp; array (</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp;&nbsp; '$in' =&gt; </span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp;&nbsp; array (</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp;&nbsp; 0 =&gt; '59bb2e6f93527e5b520ed36a',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp;&nbsp; 1 =&gt; '59bb2e6f93527e5de2612137',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp;&nbsp; 2 =&gt; '59bb2e6f93527e54d35b6418',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp;&nbsp; 3 =&gt; '59bb2e6e93527e5e134fdc39',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp;&nbsp; 4 =&gt; '59bb2e6e93527e5ddf4ad9c6',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp;&nbsp; 5 =&gt; '59bb2e6e93527e5b5856fdd3',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp;&nbsp; 6 =&gt; '59bb2e6e93527e5e141ffe51',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp;&nbsp; 7 =&gt; '59bb2e6d93527e5dd656b31c',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp;&nbsp; 8 =&gt; '59bb2e6d93527e5b5f5b0d5b',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp; &nbsp;&nbsp; 9 =&gt; '59bb2e6d93527e5b73397197',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp;&nbsp;&nbsp; ),</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp; ),</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">&nbsp; 'siteid' =&gt; '59b0e30893527e3d325c81f2',</span></p><p><span style="font-family:'ArialMT', 'Arial';font-weight:400;">)</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
